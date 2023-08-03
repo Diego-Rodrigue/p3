@@ -1,0 +1,47 @@
+/* styles.css */
+
+body {
+  background-color: purple;
+  color: white;
+}
+
+header {
+  background-color: #333;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+nav ul {
+css
+.imagenes-eventos {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.imagenes-eventos img {
+    width: 300px;
+    height: auto;
+    margin: 10px;
+css
+body {
+  background-image: url("c:\Users\Thinkpad\Desktop\364197495_812132870604709_5727764389575312710_n.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+ nav li:last-child {
+  margin-right: 0;
+}
